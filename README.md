@@ -22,7 +22,7 @@ Provide a unique repository name prefix to distinguish your function images from
 Generate Auth Token
 
 Log into the Registry using the Auth Token as your password:
-- docker login -u 'idmmbvnn4gnv/abc@comanyname.com' iad.ocir.io
+- docker login -u 'givenamespace/abc@comanyname.com' iad.ocir.io
 
 Verify your setup by listing applications in the compartment
 - fn list apps
